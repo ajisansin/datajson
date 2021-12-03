@@ -1,0 +1,119 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-2645985121489878/5398828072",
+      "main_ads_intertitial":"ca-app-pub-2645985121489878/7833419720",
+      "native_for_admob":"ca-app-pub-2645985121489878/5207256384",
+      "backup_ads_banner":"66c0476711398871",
+      "backup_ads_intertitial":"8dcf7cd55222adc9",
+      "applovin_inters": "8dcf7cd55222adc9",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Finance",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "Loans",
+      "high_paying_keyword_4": "Mesothelioma",
+      "high_paying_keyword_5": "Lawyers",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Alyssa Dezek Call Video Prank",
+      "image":"file:///android_asset/alyssa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.onethreebanana.AlyssaDezekCallVideoPrank"
+    },
+    {
+      "id":2,
+      "title":"Ryan World Kaji Call Video Prank",
+      "image":"file:///android_asset/ryan.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.onethreebanana.RyanWorldKajiCallVideoPrank"
+    },
+    {
+      "id":3,
+      "title":"Vlad A4 Fake Video Call - Vlad Bumaga Call Prank",
+      "image":"file:///android_asset/vlad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.eigcixdums.VladA4FakeVideoCall"
+    },
+    {
+      "id":4,
+      "title":"Karim Juega Call Video Prank",
+      "image":"file:///android_asset/karim.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.onethreebanana.KarimJuegaCallVideoPrank"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"LankyBox Say Happy Birthday",
+      "image_url":"file:///android_asset/1.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-n9fjlFu0Q.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":2,
+      "name":"LankyBox ",
+      "image_url":"file:///android_asset/2.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-bI814GwSh.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":3,
+      "name":"LankyBox",
+      "image_url":"file:///android_asset/3.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-kQql-KuLp.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":4,
+      "name":"LankyBox",
+      "image_url":"file:///android_asset/4.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-PopeGnz0dV.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":5,
+      "name":"LankyBox",
+      "image_url":"file:///android_asset/5.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-L3EHczQIP.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":6,
+      "name":"LankyBox",
+      "image_url":"file:///android_asset/6.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-n9fjlFu0Q.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":7,
+      "name":"LankyBox",
+      "image_url":"file:///android_asset/7.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-bI814GwSh.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":8,
+      "name":"LankyBox",
+      "image_url":"file:///android_asset/8.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-kQql-KuLp.mp4",
+      "voice_url":"lanky.mp3"
+    },
+    {
+      "id":9,
+      "name":"LankyBox",
+      "image_url":"file:///android_asset/9.jpg",
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-PopeGnz0dV.mp4",
+      "voice_url":"lanky.mp3"
+    }
+  ]
+
+}
