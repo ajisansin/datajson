@@ -1,0 +1,119 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"",
+      "main_ads_banner": "30b2670aa6400525",
+      "main_ads_intertitial":"640d7a91c6a26d3b",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "applovin_inters": "",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Finance",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "Loans",
+      "high_paying_keyword_4": "Mesothelioma",
+      "high_paying_keyword_5": "Lawyers",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Alyssa Dezek Call Video Prank",
+      "image":"file:///android_asset/alyssa.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.onethreebanana.AlyssaDezekCallVideoPrank"
+    },
+    {
+      "id":2,
+      "title":"Ryan World Kaji Call Video Prank",
+      "image":"file:///android_asset/ryan.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.onethreebanana.RyanWorldKajiCallVideoPrank"
+    },
+    {
+      "id":3,
+      "title":"Vlad A4 Fake Video Call - Vlad Bumaga Call Prank",
+      "image":"file:///android_asset/vlad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.eigcixdums.VladA4FakeVideoCall"
+    },
+    {
+      "id":4,
+      "title":"Karim Juega Call Video Prank",
+      "image":"file:///android_asset/karim.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.onethreebanana.KarimJuegaCallVideoPrank"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/1.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":2,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/2.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":3,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/3.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":4,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/4.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":5,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/5.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":6,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/6.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":7,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/7.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":8,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/8.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    },
+    {
+      "id":9,
+      "name":"Las Ratitas",
+      "image_url":"file:///android_asset/9.jpg",
+      "video_url":"ratitas",
+      "voice_url":"ratitascall.mp3"
+    }
+  ]
+
+}
