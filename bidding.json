@@ -23,16 +23,16 @@
       "Appodeal_id": "01234567890123457890145789",
       "Startapp_id": "206768024",
 
-      "Active_Ad_network": "admob appodeal startapp",
+      "Active_Ad_network": "applovin",
 
-      "Ad__1__Interstitial": "admob",
-      "Ad__2__Interstitial": "appodeal",
-      "Ad__3__Interstitial": "admob",
-      "Ad__4__Interstitial": "startapp",
+      "Ad__1__Interstitial": "applovin",
+      "Ad__2__Interstitial": "applovin",
+      "Ad__3__Interstitial": "applovin",
+      "Ad__4__Interstitial": "applovin",
 
-      "Ad__X__Banner": "admob",
+      "Ad__X__Banner": "applovin",
       "Ad__X__Native": "admob",
-      "Ad__X__Rectangle": "admob",
+      "Ad__X__Rectangle": "applovin",
 
       "Test_mode_unity"     : "yes",
       "Test_mode_appodeal"  : "yes",
@@ -40,11 +40,11 @@
       "Show_help_toast"     : "yes",
 
       "ClicksTo_showAd": "2",
-      "Active_PackageName": "com.mygfx.bidguide",
+      "Active_PackageName": "com.ajisansin.tes",
       "OnBack_ClicksTo_showAd": "5",
 
       "Ad_format_fi_detail_1"   : "rectangle",
-      "Ad_format_fi_detail_2"   : "native",
+      "Ad_format_fi_detail_2"   : "rectangle",
       "Ad_format_fi_detail_3"   : "rectangle",
       
       "Applovin_Banner" : "ec99e036ebbca2ed",
