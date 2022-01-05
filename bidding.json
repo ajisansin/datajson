@@ -50,6 +50,9 @@
       "Applovin_Banner" : "ec99e036ebbca2ed",
       "Applovin_Inters" : "d46ddd9328f5a4e5",
       "Applovin_MREC" : "8d934ae4d2f60095",
+	    
+      "IronSource_Banner" : "DefaultBanner",
+      "IronSource_Inters" : "DefaultInterstitial",
 	  
       "Enable_backgroundAds": "no",
 
