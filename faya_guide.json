@@ -39,7 +39,7 @@
 	
 	"cpa_activity" : {
 	   "cpabuild" : {
-        "cpabuild_offer_state" : "true",
+        "cpabuild_offer_state" : true,
         "cpabuild_offer_user_id" : "",
         "cpabuild_offer_api_key" : "",
         "cpabuild_offer_type" : "all"
