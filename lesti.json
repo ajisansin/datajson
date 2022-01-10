@@ -37,6 +37,15 @@
     }
   ],
   "Data":[
+     {
+      "id":0,
+      "name_category":"Lesti Playlist 1",
+      "title":"Lentera",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lentera.mp3",
+      "duration":"284",
+      "lyrics":"<p>Wahai Pagi<br />Mengajariku Artiny Kesejukan..<br />Wahai Malam<br />Mengajariku Artinya Keheningan..</p><p>Dan Tuhanpun<br />Percaya Menitipkan Kamu Padaku..<br />Dan Inipun<br />Mengajariku Cinta Tiada Batas..</p><p>Denyutmu Ada,<br />Dalam Denyutku..<br />Meskipun Sulit<br />Ku Upayakan..<br />Meraih Bintang,<br />Meraih Bulan Hanya Untukmu..</p><p>Takkan Ku Biarkan,<br />Kegagalan Menyelimutimu..<br />Kegelapan Mendapingimu,<br />Akulah Lentera Di Hidupmu..</p><p>Bila Sendu Hadir,<br />Ku Pasti Menggatikan Tempatmu..<br />Jatungpun Pasti Akan Kuberi,<br />Surgamu Ada Padaku..</p><p>Denyutmu Ada<br />Dalam Denyutku..<br />Meskipun Sulit Ku Upayakan<br />Meraih Bintang<br />Meraih Bulan Hanya Untukmu..</p><p>Takkan Ku Biarkan<br />Kegagalan Menyelimutimu..<br />Kegelapan Mendapingimu..<br />Akulah Lentera Di Hidupmu..</p><p>Bila Sendu Hadir,<br />Ku Pasti Menggatikan Tempatmu..<br />Jatungpun Pasti Akan Kuberi,<br />Surgamu Ada Padaku</p>"
+    },
     {
       "id":0,
       "name_category":"Lesti Playlist 1",
@@ -54,15 +63,6 @@
       "link_mp3":"mp3\/bawa.mp3",
       "duration":"310",
       "lyrics":"<pre>\r\nPucuk dicinta ulam pun tiba kata pepatah\r\nKubutuh cinta, kamu pun datang akau bahagia\r\nPernah merasa sakitnya cinta hati kecewa\r\nLalu kau hadir, aku terlena tiada berdaya\r\n\r\nBunga yang layu kini mekar kembali\r\nKau siram dengan cinta sepenuh hati\r\nDitinggal nikah ku lepas dengan ikhlas\r\nGantinya kamu ikhlas membawa berkah\r\n\r\nReff:\r\nAku siap jadi milikmu\r\nSiapkah kau menjadi imamku\r\n\r\nAku takut fitnah dan dosa\r\nBila berdua-duaan denganmu\r\n\r\nApalagi yang kau tunggu\r\nJadikan aku halal untukmu\r\nAyah ibu beri restu\r\nBawa Aku Ke Penghulu\r\n\r\nPernah merasa sakitnya cinta hati kecewa\r\nLalu kau hadir aku terlena tiada berdaya\r\n\r\nBunga yang layu kini mekar kembali\r\nKau siram dengan cinta sepenuh hati\r\nDitinggal nikah ku lepas dengan ikhlas\r\nGantinya kamu ikhlas membawa berkah\r\n\r\nReff:\r\nAku siap jadi milikmu\r\nSiapkah kau menjadi imamku\r\n\r\nAku takut fitnah dan dosa\r\nBila berdua-duaan denganmu\r\n\r\nApalagi yang kau tunggu\r\nJadikan aku halal untukmu\r\n\r\nAyah ibu beri restu\r\nBawa Aku Ke Penghulu\r\nBawa Aku Ke Penghulu\r\n\r\nHooo ooooah, sayang<\/pre>\r\n"
-    },
-    {
-      "id":2,
-      "name_category":"Lesti Playlist 1",
-      "title":"Bismillah Cinta Feat Ungu",
-      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
-      "link_mp3":"mp3\/lesti16.mp3",
-      "duration":"260",
-      "lyrics":"<pre>\r\nTak Dapat Lagi Kulukis Rasa\r\nRamadhan Yang Indah Kini Tlah Tiba\r\nBulan Penuh Berkah Rahmat Dari Allah\r\nMeski Dalam Suasana Berbeda\r\n\r\nCobaan Demi Cobaan Melanda\r\nKita Bersama Namun Tak Lagi Sama\r\nJarak Memisahkan Semua Tlah Berbatas\r\nIni Ujian Bagi Kita\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nPercaya Kita\r\nBismillah Cinta\r\nPercaya Cinta\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nBismillah Cinta<\/pre>\r\n"
     },
     {
       "id":3,
@@ -210,6 +210,15 @@
     },
     {
       "id":19,
+      "name_category":"Lesti Playlist 1",
+      "title":"Bismillah Cinta Feat Ungu",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti16.mp3",
+      "duration":"260",
+      "lyrics":"<pre>\r\nTak Dapat Lagi Kulukis Rasa\r\nRamadhan Yang Indah Kini Tlah Tiba\r\nBulan Penuh Berkah Rahmat Dari Allah\r\nMeski Dalam Suasana Berbeda\r\n\r\nCobaan Demi Cobaan Melanda\r\nKita Bersama Namun Tak Lagi Sama\r\nJarak Memisahkan Semua Tlah Berbatas\r\nIni Ujian Bagi Kita\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nPercaya Kita\r\nBismillah Cinta\r\nPercaya Cinta\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nBismillah Cinta<\/pre>\r\n"
+    },
+    {
+      "id":20,
       "name_category":"Rizky Billar",
       "title":"Melihatmu Bahagia",
       "image":"file:\/\/\/android_asset\/image\/ic_rb.jpg",
@@ -218,7 +227,7 @@
       "lyrics":"<pre>\r\nCintaku jatuh di hatimu\r\nBerharga untuk ku\r\nBerharap kelak\r\nkau akan jadi jodohku\r\n\r\nPenantianku bersamamu\r\nJadi bahagiaku\r\nSempurna kan ku\r\nKarena kau adalah mimpiku\r\n\r\nTernyata semua berakhir\r\nSejak ada dia hadir\r\nKu yang dulu sangat penting\r\nKau berubah dan tinggalkan aku\r\n\r\nChorus\r\n\r\nKu yang selalu menjagamu\r\nNamun dia yang milikimu\r\nSemua tak jadi kenyataan\r\nBiar ku tahan sedih ini\r\n\r\nKu yang selalu mencintamu\r\nNamun dengan nya kau berlabuh\r\nKu mengalah dari egoku\r\nAsal ku melihatmu bahagia\r\n\r\nCintaku jatuh di hatimu\r\nBerharga untuk ku\r\nBerharap kelak\r\nKau akan jadi jodohku\r\n\r\nTernyata semua berakhir\r\nSejak ada dia hadir\r\nKu yang dulu sangat penting\r\nKau berubah dan tinggalkan ku\r\n\r\nKu yang selalu menjagamu\r\nNamun dia yang milikimu\r\nSemua tak jadi kenyataan\r\nBiar ku tahan sedih ini\r\n\r\nKu yang selalu mencintamu\r\nNamun dengan nya kau berlabuh\r\nKu mengalah dari egoku\r\nAsal ku melihatmu bahagia\r\n\r\nSemua tak jadi kenyataan\r\nBiar ku tahan sedih ini\r\n\r\nKu yang selalu mencintamu\r\nNamun dengan nya kau berlabuh\r\nKu mengalah dari egoku\r\nAsal ku melihatmu bahagia\r\n\r\nAsal ku melihatmu bahagia<\/pre>\r\n"
     },
     {
-      "id":20,
+      "id":21,
       "name_category":"Rizky Billar",
       "title":"Kini Hanya Tentangmu",
       "image":"file:\/\/\/android_asset\/image\/ic_rb.jpg",
