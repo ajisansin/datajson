@@ -1,0 +1,230 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "MOPUB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "484451641f2344e6a5f33fb0e59f9a11",
+      "main_ads_intertitial":"f2c9ac0f2e894a6e869d2a0419f2d86e",
+      "backup_ads_banner":"e8736a285c64caa5",
+      "backup_ads_intertitial":"62a121c915ef6714",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories":[
+    {
+      "id":1,
+      "name_category":"Lesti Playlist 1",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg"
+    },
+    {
+      "id":2,
+      "name_category":"Lesti Playlist 2",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg"
+    },
+    {
+      "id":3,
+      "name_category":"Rizky Billar",
+      "image":"file:\/\/\/android_asset\/image\/ic_rb.jpg"
+    }
+  ],
+  "Data":[
+    {
+      "id":0,
+      "name_category":"Lesti Playlist 1",
+      "title":"Takdir Cinta Feat Rizky Billar",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti17.mp3",
+      "duration":"242",
+      "lyrics":"<p>Bismillah...<br />Dengan menyebut nama Allah<br />Izinkan aku mencintaimu<br />Dijalan yang diridhoi-Nya</p>\n<p>Bismillah...<br />Dengan menyebut nama Allah<br />Ku doakan dirimu menjadi jodohku<br />Imam pemimpin dalam hidupku</p>\n<p>Insya Allah<br />Kujaga dirimu<br />Dengan seluruh cintaku<br />Hidup dan matiku</p>\n<p>Insya Allah<br />Kujaga kehormatanku<br />Menjadi pendamping dalam<br />Sebuah takdir cinta (Aaa-aaa)</p>\n<p>Dengan ridho-Nya (Dengan ridho-Nya)<br />Kuucap janji suci (Kuucap janji suci)<br />Kita (Kita) berdua (Berdua)<br />Oooohhhh (Oooohhhh)</p>\n<p>Insya Allah (Insya Allah)<br />Kujaga dirimu (Kujaga dirimu)<br />Dengan seluruh cintaku<br />Hidup dan matiku</p>\n<p>Insya Allah<br />Kujaga kehormatanku<br />Menjadi pendamping dalam<br />Sebuah takdir cinta</p>\n<p>Insya Allah<br />(Oooohhhh) Kujaga dirimu<br />(Oooohhhh) Dengan seluruh cintaku<br />Hidup dan matiku (Oooohhhh)</p>\n<p>Insya Allah<br />Kujaga kehormatanku<br />Menjadi (Menjadi) pendamping dalam (Pendamping dalam)<br />Menjadi (Menjadi) pendamping dalam (Pendamping dalam)<br />Sebuah (Sebuah) takdir (Takdir) cinta (Cinta)</p>"
+    },
+    {
+      "id":1,
+      "name_category":"Lesti Playlist 1",
+      "title":"Bawa Aku Ke Penghulu",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/bawa.mp3",
+      "duration":"310",
+      "lyrics":"<pre>\r\nPucuk dicinta ulam pun tiba kata pepatah\r\nKubutuh cinta, kamu pun datang akau bahagia\r\nPernah merasa sakitnya cinta hati kecewa\r\nLalu kau hadir, aku terlena tiada berdaya\r\n\r\nBunga yang layu kini mekar kembali\r\nKau siram dengan cinta sepenuh hati\r\nDitinggal nikah ku lepas dengan ikhlas\r\nGantinya kamu ikhlas membawa berkah\r\n\r\nReff:\r\nAku siap jadi milikmu\r\nSiapkah kau menjadi imamku\r\n\r\nAku takut fitnah dan dosa\r\nBila berdua-duaan denganmu\r\n\r\nApalagi yang kau tunggu\r\nJadikan aku halal untukmu\r\nAyah ibu beri restu\r\nBawa Aku Ke Penghulu\r\n\r\nPernah merasa sakitnya cinta hati kecewa\r\nLalu kau hadir aku terlena tiada berdaya\r\n\r\nBunga yang layu kini mekar kembali\r\nKau siram dengan cinta sepenuh hati\r\nDitinggal nikah ku lepas dengan ikhlas\r\nGantinya kamu ikhlas membawa berkah\r\n\r\nReff:\r\nAku siap jadi milikmu\r\nSiapkah kau menjadi imamku\r\n\r\nAku takut fitnah dan dosa\r\nBila berdua-duaan denganmu\r\n\r\nApalagi yang kau tunggu\r\nJadikan aku halal untukmu\r\n\r\nAyah ibu beri restu\r\nBawa Aku Ke Penghulu\r\nBawa Aku Ke Penghulu\r\n\r\nHooo ooooah, sayang<\/pre>\r\n"
+    },
+    {
+      "id":2,
+      "name_category":"Lesti Playlist 1",
+      "title":"Bismillah Cinta Feat Ungu",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti16.mp3",
+      "duration":"260",
+      "lyrics":"<pre>\r\nTak Dapat Lagi Kulukis Rasa\r\nRamadhan Yang Indah Kini Tlah Tiba\r\nBulan Penuh Berkah Rahmat Dari Allah\r\nMeski Dalam Suasana Berbeda\r\n\r\nCobaan Demi Cobaan Melanda\r\nKita Bersama Namun Tak Lagi Sama\r\nJarak Memisahkan Semua Tlah Berbatas\r\nIni Ujian Bagi Kita\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nPercaya Kita\r\nBismillah Cinta\r\nPercaya Cinta\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nPercaya Padaku Percaya Cinta\r\nYakin Kita Bisa Lalui Semua\r\nSgala Cobaan Yang Datang Mendera\r\n\r\nBismillah Cinta\r\nPanjatkan Doa Pada Yang Kuasa\r\nBersujud Padanya Dengan Air Mata\r\nInsyaallah Ramadhan Membawa Hikmat\r\n\r\nBismillah Cinta\r\nBismillah Cinta<\/pre>\r\n"
+    },
+    {
+      "id":3,
+      "name_category":"Lesti Playlist 1",
+      "title":"Ayat - Ayat Cinta ( Cover Leslar )",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/ayatcinta.mp3",
+      "duration":"239",
+      "lyrics":"<pre>\r\nDesir pasir di padang tandus\r\nSegersang pemikiran hati\r\nTerkisah &#39;ku di antara\r\nCinta yang rumit\r\n\r\nBila keyakinanku datang\r\nKasih bukan sekedar cinta\r\nPengorbanan cinta yang agung\r\nKupertaruhkan\r\n\r\nMaafkan bila &#39;ku tak sempurna\r\nCinta ini tak mungkin kucegah\r\nAyat-ayat cinta bercerita\r\nCintaku padamu\r\n\r\nBila bahagia mulai menyentuh\r\nSeakan &#39;ku bisa hidup lebih lama\r\nNamun harus kutinggalkan cinta\r\nKetika kubersujud\r\n\r\nBila keyakinanku datang\r\nKasih bukan sekedar cinta\r\nPengorbanan cinta yang agung\r\nKupertaruhkan\r\n\r\nMaafkan bila &#39;ku tak sempurna\r\nCinta ini tak mungkin kucegah\r\nAyat-ayat cinta bercerita\r\nCintaku padamu\r\n\r\nBila bahagia mulai menyentuh\r\nSeakan &#39;ku bisa hidup lebih lama\r\nNamun harus kutinggalkan cinta\r\nKetika kubersujud\r\nKetika kubersujud<\/pre>\r\n"
+    },
+    {
+      "id":4,
+      "name_category":"Lesti Playlist 1",
+      "title":"Kulepas Dengan Ikhlas",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti.mp3",
+      "duration":"390",
+      "lyrics":"<pre>\r\nSelamat kuucapkan padamu\r\nWahai orang yang pernah paling aku sayang\r\nKulepas dirimu dengan ikhlas\r\nMoga Tuhan jagakan dirimu dan dia\r\n\r\nKudatang memberikan selamat\r\nWalau langkah kaki gamang\r\nUntuk kamu, aku datang\r\nSemoga dirimu bahagia\r\n\r\nKulepas dirimu dengan ikhlas\r\nSemoga engkau dan dia bahagia\r\nDulu kita pernah berbagi rasa\r\nKini kita hanya teman yang biasa\r\n\r\nDulu kita bisa berencana\r\nTapi Tuhanlah yang menakdirkan\r\nHidup terus berjalan\r\nEngkau t&#39;lah kurelakan\r\n\r\nPada Tuhan semua\r\nKupasrahkan\r\nSelamat kuucapkan padamu\r\nWahai orang yang pernah paling aku sayang\r\n\r\nHoo-oo\r\nHoo-oo\r\nHoo-oo\r\nHoo-oo\r\n\r\nDulu kita pernah berbagi rasa\r\nKini kita hanya teman yang biasa\r\nDulu kita bisa berencana\r\nTapi Tuhanlah yang menakdirkan\r\n\r\nHidup terus berjalan\r\nEngkau t&#39;lah kurelakan\r\nPada Tuhan semua\r\nKupasrahkan\r\n\r\nKulepas dirimu dengan ikhlas\r\nSemoga engkau dan dia bahagia<\/pre>\r\n"
+    },
+    {
+      "id":5,
+      "name_category":"Lesti Playlist 1",
+      "title":"Buka Mata Hati",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti2.mp3",
+      "duration":"276",
+      "lyrics":"<pre>\r\nSudah sekian lama di dunia\r\nTak jua kau memahami\r\nDunia seakan hanya tentang uang dan harta\r\n\r\nBagaimana agar kau mengerti?\r\nBuka mata hatimu, dengar firman Ilahi\r\nIngatkah kau pada kematian?\r\nYang kau bawa hanyalah amal selama di dunia\r\n\r\nManusia yang paling mulia selalu menjaga hatinya\r\nDia sabar menerima cobaan yang Allah berikan\r\nHargailah hidup ini selagi kau masih bernafas\r\nWaktu tak akan menunggu hingga sampai kau sadar\r\n\r\nKhilaf itu pasti &#39;kan datang, manusia tempatnya salah\r\nJanganlah kau nodai hatimu dengan benci\r\n\r\nBagaimana agar kau mengerti\r\nBuka mata hatimu dengar firman Ilahi\r\nIngatkah kau pada kematian?\r\nYang kau bawa hanyalah amal selama di dunia\r\n\r\nManusia yang paling mulia selalu menjaga hatinya\r\nDia sabar menerima cobaan yang Allah berikan\r\nHargailah hidup ini selagi kau masih bernafas\r\nWaktu tak akan menunggu hingga sampai kau sadar\r\n\r\nManusia yang paling mulia hanya mencintai Tuhannya\r\nBerharap pada manusia hanya kecewa yang kau dapat\r\nHanya Tuhanlah yang mampu menjamin hidup dan matimu\r\nBersujud dan memohon, berharaplah pada-Nya<\/pre>\r\n"
+    },
+    {
+      "id":6,
+      "name_category":"Lesti Playlist 1",
+      "title":"Mati Gaya",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti3.mp3",
+      "duration":"221",
+      "lyrics":"<pre>\r\nSejak pertama bertemu\r\nHatiku sudah terpaku\r\nSeperti bukan diriku\r\nBila &#39;ku tanpa dirimu oh oh\r\n\r\nApakah rahasiamu?\r\nKau menjerat pikiranku\r\n&#39;Ku jadi tak tahu malu\r\nSaat kudekat denganmu\r\n\r\nBila diriku lihat gayamu\r\nAku tak mampu menahan dinginku\r\nKau membuat diriku gila\r\nTergila-gila gila karenamu\r\nSungguh tak bisa aku bila\r\nTanpamu\r\n\r\nKau buat tak berdaya\r\nKau buat diriku ini mati gaya\r\nSumpah diriku tak kan rela\r\nMilikku saja\r\n\r\nKau membuat diriku gila\r\nTergila-gila gila karenamu\r\nKau membuatku tak berdaya\r\nKau buat aku mati gaya, gaya\r\nKau membuat diriku gila\r\nTergila-gila gila karenamu\r\nKau membuatku tak berdaya\r\nKau buat aku mati gaya, gaya\r\nBila diriku lihat gayamu\r\nAku tak mampu menahan dinginku\r\nKau membuat diriku gila\r\nTergila-gila gila karenamu\r\nSungguh tak bisa aku bila\r\nTanpamu\r\n\r\nKau buat tak berdaya\r\nKau buat diriku ini mati gaya\r\nSumpah diriku takkan rela\r\nMilikku saja\r\n\r\nKau membuat diriku gila\r\nTergila-gila gila karenamu\r\nKau membuatku tak berdaya\r\nKau buat aku mati gaya, gaya\r\nKau membuat diriku gila\r\nTergila-gila gila karenamu\r\nKau membuatku tak berdaya\r\nKau buat aku mati gaya, gaya<\/pre>\r\n"
+    },
+    {
+      "id":7,
+      "name_category":"Lesti Playlist 1",
+      "title":"Hati Yang Kau Sakiti",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti5.mp3",
+      "duration":"244",
+      "lyrics":"<pre>\r\nNa bakken eopdamyeo han yaksok\r\nGeureon mal ije neun hajima\r\nNiga kkaebeorin uri sai nikka\r\n\r\nIje nado tteonanda hamyeon\r\nGeureon nal yongseohae jugenni\r\nNaege sangcheoman juneun neoreul dugo\r\n\r\nNeo eopsi mwol hal su isseulkka\r\nBamsae dae nae eo do\r\nNeo eopsineun hagi sireo\r\nNa jujeo an gae dwae\r\n\r\nNunmuri na geu saeng gage\r\nEotteoke ireoke janinhal su inneun geonji\r\nNa bakken epdaddeon niga\r\nNa anin geu nyeo ege\r\n\r\nNunmuri na neol bonaegi\r\nIreoke swipge neoneun nareul tteona gajiman\r\nJeoldae ijeumyeon andwae\r\nNeo ttaemune sangcheo badeun nae maeumeul\r\n\r\nIje nado tteonanda hamyeon\r\nGeureon nal yongseohae jugenni\r\nNaege sangcheoman juneun neoreul dugo\r\n\r\nNeo eopsi mwol hal su isseulkka\r\nBamsae dae nae eo do\r\nNeo eopsineun hagi sireo\r\nNa jujeo an gae dwae\r\n\r\nNunmuri na geu saeng gage\r\nEotteoke ireoke janinhal su inneun geonji\r\nNa bakken epdaddeon niga\r\nNa anin geu nyeo ege\r\n\r\nNunmuri na neol bonaegi\r\nIreoke swipge neoneun nareul tteona gajiman\r\nJeoldae ijeumyeon andwae\r\nNeo ttaemune sangcheo badeun nae maeumeul\r\n\r\nNunmuri na\r\nNeoneun nal ijeumyeon andwae\r\nNeo ttaemune sangcheo badeun i maeumeul<\/pre>\r\n"
+    },
+    {
+      "id":8,
+      "name_category":"Lesti Playlist 1",
+      "title":"Pacar Dunia Akhirat ",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti6.mp3",
+      "duration":"412",
+      "lyrics":"<pre>\r\nHari ini saya umumkan\r\npada bulan pada bintang\r\nDapatkah kumiliki\r\nSeorang kekasih dunia akhirat\r\n\r\nKalau ada cari satu untukku\r\nKalau bisa kebarkan kepadaku\r\nUntuk pacarku dunia akhirat\r\nTidak perlu kaya asal dia setia\r\nCinta dari muda sampai tua sama sama\r\n\r\nKalau bisa cari satu untukku\r\nKalau bisa kabarkan segera\r\n\r\nBuat apa banyak cinta\r\nBuat apa banyak cinta\r\nTapi sema pendusta\r\nManisnya hanya dibibir saja\r\n\r\nYang gagah banyak ulahnya\r\nYang gagah banyak ulahnya\r\n Yang tampan banyak tingkahnya\r\nApalagi kalau sudah jaya\r\n\r\nKu tak butuh cinta kaya dunia\r\nYang kucari kasih dunia akhirat<\/pre>\r\n"
+    },
+    {
+      "id":9,
+      "name_category":"Lesti Playlist 1",
+      "title":"Janji",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti7.mp3",
+      "duration":"186",
+      "lyrics":"<pre>\r\nSurga yang engkau janjikan\r\nNeraka yang kauberikan\r\nManis yang aku harapkan\r\nPahit yang aku rasakan\r\n\r\nTingginya janjimu padaku\r\nMengalahkan langit yang biru\r\nManisnya janjimu padaku\r\nMengalahkan manisnya madu\r\n\r\nSurga yang engkau janjikan\r\nNeraka yang kauberikan\r\nManis yang aku harapkan\r\nPahit yang aku rasakan\r\n\r\nDulu kau berlutut di kakiku\r\nUntuk mengharap cintaku\r\nHingga terbuka pintu hatiku\r\nTuk menerima cintamu\r\nTapi setelah aku jatuh cinta padamu\r\nEngkau begitu mudah melupakan diriku<\/pre>\r\n"
+    },
+    {
+      "id":10,
+      "name_category":"Lesti Playlist 2",
+      "title":"Bulan Diranting Cemara",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti8.mp3",
+      "duration":"346",
+      "lyrics":"<pre>\r\nLepas senja remang melingkar langit\r\nTak terasa rindu mulai bangkit\r\nJanji alam di malam ini\r\nRembulan kan datang menyinari\r\n\r\nCipta alam kadang membawa suka\r\nAda bukan di ranting cemara\r\nRindu rindu makin menderu\r\nKu ingin kau ada di sisiku\r\n\r\nEsok hari setelah engkau kembali\r\nKu kan datang menemuimu\r\nBercerita betapa rindu hatiku\r\nMalam itu ku hanya sendiri\r\n\r\nBisik ranting cemara bulan bersinar manja\r\nRindu hatiku semakin dalam\r\n\r\nRumpun bambu di sisi kau cemara\r\nManapa indahnya suasana\r\nAngin malam berbisik merdu\r\nMelintas burung malam berlalu\r\n\r\nCipta alam kadang membawa suka\r\nAda bulan di ranting cemara\r\nRindu rindu makin menderu\r\nTersenyum bulan diranting cemara\r\n\r\nEsok hari setelah engkau kembali\r\nKu kan datang menemuimu\r\nBercerita betapa rindu hatiku<\/pre>\r\n"
+    },
+    {
+      "id":11,
+      "name_category":"Lesti Playlist 2",
+      "title":"Kejam",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti9.mp3",
+      "duration":"346",
+      "lyrics":"<pre>\r\nKejam. ... kejam. ...\r\nmengapa hatimu. .....\r\nKeras bagaikan batu. ...\r\n\r\nKejam. ... kejam. ...\r\nmengapa hatimu\r\nsekeras batu\r\nMasih adakah cinta\r\nyang tersisa untukku\r\nKasih, oh. ... katakanlah\r\nlupakah dirimu\r\nakan putihnya cinta\r\nMengapa berubah\r\njadi merah semua\r\ntega. ... ha. .......\r\n\r\nAku pernah bersimpuh\r\nDihadapanmu, tapi tak kau hiraukan\r\nmalah kau membisu\r\n\r\nAku telah bersujud\r\nmemohon dan mengharap kepadamu\r\nNamun engkau tetap saja\r\nbagai patung batu\r\n\r\nJangan. ... jangan. .....\r\nkau biarkan aku\r\nKau biarkan aku sendirian\r\n\r\nKejam. ... kejam. .....\r\nMegapa hatimu sekeras batu\r\n\r\nAku pernah bersimpuh\r\nmalah kau membisu\r\nDihadapanmu, tapi tak kau hiraukan\r\n\r\nAku telah bersujud\r\nmemohon dan mengharap kepadamu\r\nNamun engkau tetap saja\r\nbagai patung batu\r\n\r\nJangan. ... jangan. .....\r\nkau biarkan aku\r\nkau biarkan aku sendirian\r\n\r\nKejam. ... kejam. .....\r\nMegapa hatimu sekeras batu\r\n\r\nMasih adakah cinta\r\nyang tersisa untukku\r\nKasih, oh. ... katakanlah\r\nlupakah dirimu\r\nakan putihnya cinta\r\nMengapa berubah\r\njadi merah semua\r\nKejam. ........<\/pre>\r\n"
+    },
+    {
+      "id":12,
+      "name_category":"Lesti Playlist 2",
+      "title":"Laila Canggung",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti10.mp3",
+      "duration":"423",
+      "lyrics":"<pre>\r\nEngkau di puji engkau di puja Laila\r\nPandai menari cantik parasnya\r\nKemana-mana senyum di bawa Laila\r\nRiang selasih bertemu gula\r\nTetapi bunga nasibnya bunga Laila\r\nRayu di rayu kumbang nan lalu\r\n\r\nLaila canggung Laila canggung\r\nLaila resah hatinya bingung\r\nLaila canggung Laila canggung\r\nLaila resah hatinya bingung\r\n\r\nTinggal seruas ujungnya\r\nTebu tawar rasanya\r\nLaila canggung pada hatinya\r\nKarna bercinta putus bercinta\r\n\r\nPunai terlepas dari genggaman\r\nkasih pujaan\r\nLaila bingung apa sebabnya\r\nSalah tiada dalam bercinta\r\n\r\n#\r\nLaila canggung Laila canggung\r\nLaila resah hatinya bingung\r\nLaila canggung Laila canggung\r\nLaila resah hatinya bingung\r\n\r\n[Kembali ke *, # 4x]<\/pre>\r\n"
+    },
+    {
+      "id":13,
+      "name_category":"Lesti Playlist 2",
+      "title":"Tirani",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti11.mp3",
+      "duration":"456",
+      "lyrics":"<pre>\r\nAkhirnya aku tak sanggup lagi\r\nUntuk tetap bertahan hidup begini\r\nCukuplah, cukup sampai di sini\r\nSilahkan saja bila kau ingin pergi\r\n\r\nTerlalu lama\r\nTerlalu banyak\r\nTerlalu sering\r\nKausakiti hati ini\r\nHanya karena ego diri\r\n\r\nKasih\r\nAkhirnya\r\nAkhirnya\r\nAku tak sanggup mendampingi dirimu\r\n\r\nLelah kusembunyi\r\nDi balik senyumku\r\nHanya karena tak ingin ada\r\nPertengkaran di antara kita berdua\r\n\r\nLelah kumenanti\r\nHilangnya tirani\r\nNamun hatimu tak bernurani\r\nBak berharap hujan di terik sang mentari\r\n\r\nPuaskanlah\r\nPuaskanlah\r\nSelagi nafas masih ada\r\n\r\nSekarang\r\nSilahkan engkau pergi\r\nKejarlah semua mimpi-mimpi indahmu\r\n\r\nTerlalu lama\r\nTerlalu banyak\r\nTerlalu sering\r\nKausakiti hati ini\r\nHanya karena ego diri\r\n\r\nKasih\r\nAkhirnya\r\nAkhirnya\r\nAku tak sanggup mendampingi dirimu\r\n\r\nLelah kusembunyi\r\nDi balik senyumku\r\nHanya karena tak ingin ada\r\nPertengkaran di antara kita berdua\r\n\r\nLelah kumenanti\r\nHilangnya tirani\r\nNamun hatimu tak bernurani\r\nBak berharap hujan di terik sang mentari\r\n\r\nPuaskanlah\r\nPuaskanlah\r\nSelagi nafas masih ada<\/pre>\r\n"
+    },
+    {
+      "id":14,
+      "name_category":"Lesti Playlist 2",
+      "title":"Kejora",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti12.mp3",
+      "duration":"404",
+      "lyrics":"<pre>\r\nKejora, temanilah malamku\r\nSampaikan rinduku yang terlarang\r\nDia yang kucinta, kini t&#39;lah berdua\r\nTak mampu diriku menahan rindu padanya\r\n\r\nKejora, pancarkanlah sinarmu\r\nTemani keheningan malamku\r\nPadamu kejora, kutitipkan rindu\r\nUntuknya yang kini jauh di mata\r\n\r\nKuberkhayal, angankan dirimu\r\nSeakan hadir di sini\r\nTemaniku, memelukmu\r\nIndah dalam belai kasih sayang\r\n\r\nTak terganti rasa cinta ini\r\nMeski kini kau tak sendiri\r\nSisa cinta &#39;kan jadi cerita\r\nTersimpan selamanya bersama kejora\r\n\r\nKejora, sampaikan rindu ini\r\nKejora, pancarkanlah sinarmu\r\nTemani keheningan malamku\r\nPadamu kejora, kutitipkan rindu\r\nUntuknya yang kini jauh di mata\r\n\r\nKuberkhayal, angankan dirimu\r\nSeakan hadir di sini\r\nTemaniku, memelukmu\r\nIndah dalam belai kasih sayang\r\n\r\nTak terganti rasa cinta ini\r\nMeski kini kau tak sendiri\r\nSisa cinta &#39;kan jadi cerita\r\nTersimpan selamanya bersama kejora\r\n\r\nKejora, sampaikan rindu ini<\/pre>\r\n"
+    },
+    {
+      "id":15,
+      "name_category":"Lesti Playlist 2",
+      "title":"Zapin Melayu",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti13.mp3",
+      "duration":"285",
+      "lyrics":"<pre>\r\nindah tersusun tangan dihayun\r\nkaki melangkah mengikut rentak\r\ncantik dan anggun senyum menguntum\r\ngadis melayu rancak bertandak\r\n\r\ntampan perkasa langkah pemuda\r\nmenyusun gerak pencak berseni\r\nmenjeling dara di ekor mata\r\nterpaut rasa oi kalam hati\r\n\r\nalun beralun hai merdu dialun\r\nirama lama tinggalan sejarah\r\njanganlah canggung hai duduk mengalun\r\nlagulah zapin rentak yang terindah\r\n\r\nkilau bersinar emas suasa\r\ndi jari manis elok letaknya\r\nwalau dunia terbelah dua\r\nseni ibunda tetap dijaga\r\n\r\ncari yang buruk kita elokkan\r\ncari yang elok hoi dikembangkan\r\n\r\nberdentam-dentam dentum hoi tingkah rebana\r\nberalun-alun merdu hoi irama lagu\r\nberderap-derap bunyi hoi kaki melangkah\r\nberpasang-pasang tari hoi geraknya tari\r\n\r\nmenari-menarilah tarian melayu\r\nmenari-menarilah jangan rasa malu\r\nmenari-menarilah sejujur hatimu\r\nmenari-menarilah tanpa rasa jemu\r\n\r\nberdentam-dentam dentum hoi tingkah rebana\r\nberalun-alun merdu hoi irama lagu\r\nberderap-derap bunyi hoi kaki melangkah\r\nberpasang-pasang tari hoi geraknya tari\r\n\r\nmenari-menarilah tarian melayu\r\nmenari-menarilah jangan rasa malu\r\nmenari-menarilah sejujur hatimu\r\nmenari-menarilah tanpa rasa jemu\r\n\r\nberdentam-dentam dentum hoi tingkah rebana\r\nberalun-alun merdu hoi irama lagu\r\nberderap-derap bunyi hoi kaki melangkah\r\nberpasang-pasang tari hoi geraknya tari\r\n\r\nmenari-menarilah tarian melayu\r\nmenari-menarilah jangan rasa malu\r\nmenari-menarilah sejujur hatimu\r\nmenari-menarilah tanpa rasa jemu<\/pre>\r\n"
+    },
+    {
+      "id":16,
+      "name_category":"Lesti Playlist 2",
+      "title":"Ada Cerita",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti14.mp3",
+      "duration":"235",
+      "lyrics":"<pre>\r\nHapus air mata yang mengalir di wajahmu\r\nTak perlu kau bersedih\r\nCinta tak mungkin bisa tuk melebur menjadi satu\r\nKarena kita berdua berbeda\r\n\r\nJangan tanyakan mengapa\r\nAku pun tak ada jawabnya\r\nBisa kau tangisi lagi\r\nBiarlah berlalu\r\n\r\nDalam hatiku takkan mungkin hilang\r\nMeski dirimu tak lagi bersamaku\r\nAda cerita di kehidupan nanti\r\nKita bertemu\r\nKan kupastikan kita bersatu\r\n\r\nNana\r\n\r\nSemua kisah di antara kita\r\nKan kujaga seumur hidupku\r\n\r\nDalam hatiku takkan mungkin hilang\r\nMeski dirimu tak lagi bersamaku\r\nAda cerita di kehidupan nanti\r\nKita bertemu\r\nKan kupastikan kita bersatu\r\n\r\nDalam hatiku takkan mungkin hilang\r\nMeski dirimu tak lagi bersamaku\r\nAda cerita di kehidupan nanti\r\nKita bertemu\r\nKan kupastikan kita bersatu hu<\/pre>\r\n"
+    },
+    {
+      "id":17,
+      "name_category":"Lesti Playlist 2",
+      "title":"Egois",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti15.mp3",
+      "duration":"272",
+      "lyrics":"<pre>\r\nHarusnya tak begini\r\nDiantara kau dan aku\r\nSama-sama bertahan\r\nHanya kar&#39;na satu\r\nEgo sendiri...\r\n\r\nSering kita sembunyi\r\nDi balik sikap dan kata\r\nPadahal hati kita\r\nTak ingin saling menyakiti\r\n\r\nMengapa tak mencoba\r\nJujur...\r\nPada hati kita\r\nKasih...\r\n\r\nBahwa sesungguhnya\r\nEngkau dan aku\r\nTakut berpisah\r\n\r\nSeandainya saja\r\nMau...\r\nSedikit mengalah\r\nKasih...\r\n\r\nPertengkaran ini\r\nTak mungkin ada\r\nSelamanya...\r\n\r\nSering kita sembunyi\r\nDibalik sikap dan kata\r\nPadahal hati kita\r\nTak ingin saling menyakiti\r\n\r\nMengapa tak mencoba\r\nJujur...\r\nPada hati kita\r\nKasih...\r\n\r\nBahwa sesungguhnya\r\nEngkau dan aku\r\nTakut berpisah\r\n\r\nSeandainya saja\r\nMau...\r\nSedikit mengalah\r\nKasih...\r\n\r\nPertengkaran ini\r\nTak mungkin ada\r\nSelamanya...<\/pre>\r\n"
+    },
+    {
+      "id":18,
+      "name_category":"Lesti Playlist 2",
+      "title":"Purnama",
+      "image":"file:\/\/\/android_asset\/image\/ic_les.jpg",
+      "link_mp3":"mp3\/lesti1.mp3",
+      "duration":"260",
+      "lyrics":"<pre>\r\nKurindu purnama lalu\r\nBerpayung kabut asmara\r\nHingga kini masih kurasakan\r\nMeski kini kau telah sirna\r\n\r\nKecup lembut di keningku\r\nNafas cintamu cintaku\r\nSemakin dalam rinduku benderang\r\nKala kulihat purnama\r\n\r\nHening di ujung malamku\r\nBerselimut sepi &#39;ku merindukanmu\r\nMemendam rindu aku di sini\r\nMenanti cintamu kembali\r\n\r\nPedih hatiku tersayat rindu\r\nTerbayang kenangan saat bersamamu\r\nKala purnama menghampiriku\r\nTak tertahan linang air mata\r\n\r\nSemakin dalam rindu kupendam\r\nWahai purnama, berilah aku terang\r\nPurnama\r\nPurnama\r\n\r\nHening di ujung malamku\r\nBerselimut sepi &#39;ku merindukanmu\r\nMemendam rindu aku di sini\r\nMenanti cintamu kembali\r\n\r\nPedih hatiku tersayat rindu\r\nTerbayang kenangan saat bersamamu\r\nKala purnama menghampiriku\r\nTak tertahan linang air mata\r\n\r\nSemakin dalam rindu kupendam\r\nWahai purnama, berilah aku terang\r\nPurnama\r\nPurnama<\/pre>\r\n"
+    },
+    {
+      "id":19,
+      "name_category":"Rizky Billar",
+      "title":"Melihatmu Bahagia",
+      "image":"file:\/\/\/android_asset\/image\/ic_rb.jpg",
+      "link_mp3":"mp3\/melihatmu_bahagia.mp3",
+      "duration":"234",
+      "lyrics":"<pre>\r\nCintaku jatuh di hatimu\r\nBerharga untuk ku\r\nBerharap kelak\r\nkau akan jadi jodohku\r\n\r\nPenantianku bersamamu\r\nJadi bahagiaku\r\nSempurna kan ku\r\nKarena kau adalah mimpiku\r\n\r\nTernyata semua berakhir\r\nSejak ada dia hadir\r\nKu yang dulu sangat penting\r\nKau berubah dan tinggalkan aku\r\n\r\nChorus\r\n\r\nKu yang selalu menjagamu\r\nNamun dia yang milikimu\r\nSemua tak jadi kenyataan\r\nBiar ku tahan sedih ini\r\n\r\nKu yang selalu mencintamu\r\nNamun dengan nya kau berlabuh\r\nKu mengalah dari egoku\r\nAsal ku melihatmu bahagia\r\n\r\nCintaku jatuh di hatimu\r\nBerharga untuk ku\r\nBerharap kelak\r\nKau akan jadi jodohku\r\n\r\nTernyata semua berakhir\r\nSejak ada dia hadir\r\nKu yang dulu sangat penting\r\nKau berubah dan tinggalkan ku\r\n\r\nKu yang selalu menjagamu\r\nNamun dia yang milikimu\r\nSemua tak jadi kenyataan\r\nBiar ku tahan sedih ini\r\n\r\nKu yang selalu mencintamu\r\nNamun dengan nya kau berlabuh\r\nKu mengalah dari egoku\r\nAsal ku melihatmu bahagia\r\n\r\nSemua tak jadi kenyataan\r\nBiar ku tahan sedih ini\r\n\r\nKu yang selalu mencintamu\r\nNamun dengan nya kau berlabuh\r\nKu mengalah dari egoku\r\nAsal ku melihatmu bahagia\r\n\r\nAsal ku melihatmu bahagia<\/pre>\r\n"
+    },
+    {
+      "id":20,
+      "name_category":"Rizky Billar",
+      "title":"Kini Hanya Tentangmu",
+      "image":"file:\/\/\/android_asset\/image\/ic_rb.jpg",
+      "link_mp3":"mp3\/kini_hanya_tentangmu.mp3",
+      "duration":"262",
+      "lyrics":"<pre>\r\nHuuu\r\nHuuu\r\nHuuu\r\n\r\nTiada kusangka begitu mudah\r\nKaubuatku melupakan dia\r\nBayang wajahmu t&#39;rus menggangguku\r\nDi benakku kini hanya tentangmu\r\n\r\nApa mungkin hatimu untukku\r\nSeperti hatiku\r\nYang kini telah jadi milikmu\r\nApa kau di sana\r\nRasakan yang sama\r\nApa kau juga mencintaiku (cintaiku)\r\n\r\nTiada kusangka begitu mudah\r\nKaubuatku (Kaubuatku) melupakan dia (Lupakan dia)\r\nBayang wajahmu (Wajahmu) t&#39;rus menggangguku\r\nDibenakku kini hanya tentangmu, wo-ho (Kini hanya tentangmu)\r\n\r\nApa mungkin hatimu untukku\r\nSeperti hatiku\r\nYang kini telah jadi milikmu\r\nApa kau di sana\r\nRasakan yang sama\r\nApa kau juga mencintaiku, hoo-wo-ho\r\n\r\nApa mungkin (Hatimu untukku)\r\nSeperti hatiku\r\n(Yang kini telah jadi milikmu) Jadi milikmu\r\nApa kau di sana\r\nRasakan yang sama, ho-ho-uwo\r\nApa kau juga mencintaiku\r\n\r\nKumencintamu<\/pre>\r\n"
+    }
+  ]
+}
