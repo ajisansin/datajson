@@ -23,16 +23,16 @@
         "Appodeal_id": "01234567890123457890145789",
         "Startapp_id": "206768024",
   
-        "Active_Ad_network": "ironsource applovin",
+        "Active_Ad_network": "ironsource applovin facebook",
   
-        "Ad__1__Interstitial": "ironsource",
-        "Ad__2__Interstitial": "applovin",
-        "Ad__3__Interstitial": "ironsource",
-        "Ad__4__Interstitial": "applovin",
+        "Ad__1__Interstitial": "facebook",
+        "Ad__2__Interstitial": "facebook",
+        "Ad__3__Interstitial": "facebook",
+        "Ad__4__Interstitial": "facebook",
   
-        "Ad__X__Banner": "ironsource",
-        "Ad__X__Native": "admob",
-        "Ad__X__Rectangle": "applovin",
+        "Ad__X__Banner": "facebook",
+        "Ad__X__Native": "facebook",
+        "Ad__X__Rectangle": "facebook",
   
         "Test_mode_unity"     : "yes",
         "Test_mode_appodeal"  : "yes",
