@@ -43,9 +43,9 @@
         "Active_PackageName": "com.ajisansin.tes",
         "OnBack_ClicksTo_showAd": "5",
   
-        "Ad_format_fi_detail_1"   : "rectangle",
-        "Ad_format_fi_detail_2"   : "rectangle",
-        "Ad_format_fi_detail_3"   : "rectangle",
+        "Ad_format_fi_detail_1"   : "native",
+        "Ad_format_fi_detail_2"   : "native",
+        "Ad_format_fi_detail_3"   : "native",
         
         "Applovin_Banner" : "ec99e036ebbca2ed",
         "Applovin_Inters" : "d46ddd9328f5a4e5",
