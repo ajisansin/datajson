@@ -50,70 +50,71 @@
       "link":"https://play.google.com/store/apps/details?id=com.onethreebanana.KarimJuegaCallVideoPrank"
     }
   ],
-  "Item":
+  
+ "Item":
   [
     {
       "id":1,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/1.jpg",
-      "video_url":"vlad",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-n9fjlFu0Q.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":2,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/2.jpg",
-      "video_url":"vlad",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-bI814GwSh.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":3,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/3.jpg",
-      "video_url":"vlad",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-kQql-KuLp.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":4,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/4.jpg",
-      "video_url":"https://jsteamdeveloper.com/video/vlad2.mp4",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-PopeGnz0dV.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":5,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/5.jpg",
-      "video_url":"vlad",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-L3EHczQIP.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":6,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/6.jpg",
-      "video_url":"https://jsteamdeveloper.com/video/vlad2.mp4",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-n9fjlFu0Q.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":7,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/7.jpg",
-      "video_url":"vlad",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-bI814GwSh.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":8,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/8.jpg",
-      "video_url":"vlad",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-kQql-KuLp.mp4",
+      "voice_url":"lanky.mp3"
     },
     {
       "id":9,
-      "name":"Vlad A4 Bumaga",
+      "name":"LankyBox",
       "image_url":"file:///android_asset/9.jpg",
-      "video_url":"vlad",
-      "voice_url":"vladcall.mp3"
+      "video_url":"https://starboard-media.s3.amazonaws.com/v/no-wm-PopeGnz0dV.mp4",
+      "voice_url":"lanky.mp3"
     }
   ]
 
