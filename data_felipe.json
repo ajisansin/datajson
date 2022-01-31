@@ -1,0 +1,177 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "admob_banner": "ca-app-pub-1789131402579464/4675772291",
+      "admob_inters": "ca-app-pub-1789131402579464/7110363947",
+      "admob_native": "ca-app-pub-1789131402579464/3171118938",
+      "applovin_banner": "6457f5db705758b2",
+      "applovin_inters": "7dce9c75dba60c74",
+      "applovin_mrec": "f092c99566973ec5",
+      "applovin_native": "92376acb6031368a",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Finance",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "Loans",
+      "high_paying_keyword_4": "Mesothelioma",
+      "high_paying_keyword_5": "Lawyers",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+  
+"Item":
+  [
+    {
+      "id":1,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/1.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":2,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/2.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe1.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":3,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/3.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe2.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":4,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/4.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":5,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/5.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe1.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":6,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/6.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe2.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":7,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/7.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":8,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/8.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe1.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":9,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/9.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe2.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":10,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/10.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":11,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/11.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe1.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":12,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/12.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe2.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":13,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/13.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":14,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/14.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe1.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":15,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/15.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe2.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":16,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/16.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":17,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/17.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":18,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/18.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe1.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":19,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/19.jpg",
+      "video_url":"https://ajisansin.my.id/video/felipe2.mp4",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":20,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/20.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    },
+    {
+      "id":21,
+      "name":"Felipe Neto",
+      "image_url":"file:///android_asset/21.jpg",
+      "video_url":"felipe",
+      "voice_url":"felipecall.mp3"
+    }
+  ]
+
+}
