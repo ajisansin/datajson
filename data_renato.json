@@ -1,0 +1,114 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "admob_banner": "ca-app-pub-1789131402579464/5353541091",
+      "admob_inters": "ca-app-pub-1789131402579464/7895943956",
+      "admob_native": "ca-app-pub-1789131402579464/5269780610",
+      "applovin_banner": "1e176f7d7eea55e1",
+      "applovin_inters": "273b72944c494fd4",
+      "applovin_mrec": "1bfb346acfb3f3bb",
+      "applovin_native": "19a30a7d0f99a638",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Finance",
+      "high_paying_keyword_2": "Insurance",
+      "high_paying_keyword_3": "Loans",
+      "high_paying_keyword_4": "Mesothelioma",
+      "high_paying_keyword_5": "Lawyers",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+  
+   "Item":
+  [
+    {
+      "id":1,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/1.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":2,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/2.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":3,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/3.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":4,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/4.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":5,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/5.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":6,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/6.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":7,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/7.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":8,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/8.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":9,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/9.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":10,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/10.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":11,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/11.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    },
+    {
+      "id":12,
+      "name":"Renato Garcia",
+      "image_url":"file:///android_asset/12.jpg",
+      "video_url":"renato",
+      "voice_url":"renatocall.mp3"
+    }
+  ]
+
+}
