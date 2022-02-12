@@ -8,7 +8,11 @@
          "applovin_inters":"d46ddd9328f5a4e5",
          "applovin_native":"869332eb8db02c0a",
          "iron_source_banner":"DefaultBanner",
-         "iron_source_inters":"DefaultInterstitial"
+         "iron_source_inters":"DefaultInterstitial",
+         "interval_inters":3,
+         "interval_onback":2,
+         "status_app":1,
+         "link_redirect":"https://play.google.com/store/apps/details?id=com.netflix.mediaclient"
       }
    ],
    "Guide":[
