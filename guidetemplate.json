@@ -9,8 +9,7 @@
          "applovin_native":"869332eb8db02c0a",
          "iron_source_banner":"DefaultBanner",
          "iron_source_inters":"DefaultInterstitial",
-         "interval_inters":3,
-         "interval_onback":2
+         "interval_inters":3
       }
    ],
    "Guide":[
