@@ -2,7 +2,7 @@
    "Ads":[
       {
          "banner_type":"applovin",
-         "inters_type":"applovin",
+         "inters_type":"ironsource",
          "native_type":"applovin",
          "applovin_banner":"ec99e036ebbca2ed",
          "applovin_inters":"d46ddd9328f5a4e5",
