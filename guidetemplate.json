@@ -4,11 +4,11 @@
       "banner_type" : "applovin",
       "inters_type" : "applovin",
       "native_type" : "applovin",
-      "applovin_banner" : "ad_unit",
-      "applovin_inters" : "ad_unit",
-      "applovin_native" : "ad_unit",
-      "ironsource_banner" : "DefaultBanner",
-      "ironsource_inters" : "DefaultInterstitial"
+      "applovin_banner" : "ec99e036ebbca2ed",
+      "applovin_inters" : "d46ddd9328f5a4e5",
+      "applovin_native" : "869332eb8db02c0a",
+      "iron_source_banner" : "DefaultBanner",
+      "iron_source_inters" : "DefaultInterstitial"
       }
    ],
   
