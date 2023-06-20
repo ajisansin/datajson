@@ -1,8 +1,8 @@
 {
   "Ads": [
       {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "xx",
+      "select_backup_ads":"xx",
       "admob_banner": "xx",
       "admob_inters": "xx",
       "admob_native": "xx",
@@ -21,7 +21,6 @@
       "status_app": "0",
       "link_redirect": "https://"
       }
-   ],
 
   "More":
   [
